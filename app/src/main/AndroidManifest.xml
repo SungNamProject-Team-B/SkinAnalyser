@@ -31,17 +31,7 @@
             android:name="android.support.FILE_PROVIDER_PATHS"
             android:resource="@xml/file_paths" />
     </provider>
-        <!-- <provider    /안드로이드 x 전용 라이브러리를 사용해야하는데 지금 밑에 코드는 안드로이드 용이다
-            android:authorities="com.example.pimple"
-            android:name="android.support.v4.content.FileProvider"
-            android:exported="false"
-            android:grantUriPermissions="true">
-
-            <meta-data
-                android:name = "android.support.FilE_PROVIDER_PATHS"
-                android:resource="@xml/file_paths"/>
-        </provider> -->
-
+       
     </application>
 
 </manifest>
