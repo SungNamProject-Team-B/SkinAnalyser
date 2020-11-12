@@ -1,1 +1,1 @@
-# SkinAnalyser
+# SkinAnalyzer
